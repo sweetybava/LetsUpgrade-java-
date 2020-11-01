@@ -1,0 +1,38 @@
+## Question 1:
+
+OUTPUT:
+
+"C:\Program Files\Java\jdk-15\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\lib\idea_rt.jar=57233:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\elcot\IdeaProjects\Marks\out\production\Marks com.marks.Main
+Enter your Maths mark: 
+89
+Enter your Science mark: 
+98
+Enter your English mark: 
+88
+Enter your Social mark: 
+99
+Enter your Tamil mark: 
+97
+Percentage: 90, Grade: A
+
+Process finished with exit code 0
+
+## Question 2:
+
+OUTPUT: 
+
+"C:\Program Files\Java\jdk-15\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\lib\idea_rt.jar=57608:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\elcot\IdeaProjects\Employee salary details\out\production\Employee salary details" com.employee1.Main
+Enter your name: 
+bava
+Enter your DOB: 
+Dec 17
+Enter your birth year: 
+1999
+Enter your monthly salary: 
+25000
+Name: bava
+Age: 21
+Annual income: 300000
+Tax amount: Under 300,000, No tax to pay 
+
+Process finished with exit code 0
