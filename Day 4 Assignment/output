@@ -1,0 +1,30 @@
+## Question 1
+
+Output :
+
+"C:\Program Files\Java\jdk-15\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\lib\idea_rt.jar=64340:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\elcot\IdeaProjects\Avengers\out\production\Avengers com.avenger.Main
+Enter the name: 
+Thor
+Enter the age: 
+1500
+Enter the weapon: 
+Hammer
+Enter the name: 
+Captain america
+Enter the age: 
+1200
+Enter the weapon: 
+Shield
+Enter the name: 
+Iron man
+Enter the age: 
+1600
+Enter the weapon: 
+Electric Power
+The name is Thor and age 1500, Weapon Hammer
+The name is Captain america and age 1200, Weapon Shield
+The name is Iron man and age 1600, Weapon Electric Power
+
+Process finished with exit code 0
+
+
